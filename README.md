@@ -77,11 +77,14 @@ I view data analysts as a **fusion of detective work and storytelling**—uncove
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="160" />
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&theme=radical&hide_border=true" height="165" />
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-datahub&theme=radical&hide_border=true" alt="GitHub Streak" height="160" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-datahub&theme=radical&hide_border=true" height="165" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="160" />
+<!-- Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&theme=radical&hide_border=true&layout=compact" height="165" />
 
 </div>
 
