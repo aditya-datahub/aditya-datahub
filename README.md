@@ -77,14 +77,12 @@ I view data analysts as a **fusion of detective work and storytelling**—uncove
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&theme=gruvbox&hide_border=true" height="165" />
+  <!-- Row 1: Stats + Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&theme=radical&hide_border=true&layout=compact" height="180" />
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-datahub&theme=gruvbox&hide_border=true" height="165" />
-
-<!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&theme=gruvbox&hide_border=true&layout=compact" height="200" />
+  <!-- Row 2: Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-datahub&theme=radical&hide_border=true" width="100%" />
 
 </div>
 
