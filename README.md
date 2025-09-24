@@ -23,7 +23,7 @@ To me, data is both a **puzzle** and a **story**—one that drives smarter decis
 ### 📊 Customer Churn Prediction Project
 - **Description:** Built a machine learning model to predict customer churn using scikit-learn.  
 - **Key Achievement:** Performed data preprocessing, feature engineering, model training, and evaluation.  
-- **Tech Stack:** Python, scikit-learn, Pandas, Machine Learning  
+- **Tech Stack:** Python, scikit-learn, Pandas, Machine Learning, Jupyter Notebook, Matplotlib  
 - **🔗 View Project:** [Customer Churn Prediction Project](https://github.com/aditya-datahub/Customer-Churn-Prediction-Project)
 
 ---
@@ -55,9 +55,9 @@ I view data analysts as a **fusion of detective work and storytelling**—uncove
 
 **Programming & Databases:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA5D03?style=flat-square&logo=jupyter&logoColor=white)
 
 **Data Science Libraries:**  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
