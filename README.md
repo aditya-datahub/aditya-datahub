@@ -75,16 +75,13 @@ I view data analysts as a **fusion of detective work and storytelling**—uncove
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<!-- GitHub Stats Card -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&theme=dark&hide_border=true" height="165" />
 
-<!-- Fixed Streak Stats - Using alternative service -->
-<img align="center" src="https://streak-stats.demolab.com?user=aditya-datahub&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="165" />
+<img src="https://streak-stats.demolab.com/?user=aditya-datahub&theme=dark&hide_border=true" height="165" />
 
-<!-- Top Languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&theme=dark&hide_border=true&layout=compact" height="165" />
 
 </div>
 
