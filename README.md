@@ -79,16 +79,11 @@ I view data analysts as a **fusion of detective work and storytelling**—uncove
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=aditya-datahub&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## 👤 Contact & Profiles
 
 **Aditya Sharma**  
 - 💼 **LinkedIn:** [linkedin.com/in/aditya-sharma-9b6588286](https://linkedin.com/in/aditya-sharma-9b6588286)  
 - 🐙 **GitHub:** [github.com/aditya-datahub](https://github.com/aditya-datahub)  
-- 📧 **Email:** your-email@domain.com  
 
 > *Aspiring Data Analyst skilled in SQL, Excel, Python & Power BI | Passionate about learning, data visualization, and turning data into insights.*
 
