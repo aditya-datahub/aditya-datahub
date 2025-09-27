@@ -75,11 +75,16 @@ I view data analysts as a **fusion of detective work and storytelling**—uncove
 
 ## 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180"/>
-</p>
+*Overview of my development activity and public contributions.*
 
+## Aditya Sharma's GitHub Stats
+- **Total Commits (last year):** 109
+- **Total PRs:** 0 *(Excited to contribute to open source!)*
+- **Total Issues:** 0
+- **Contributed to (last year):** 0
+
+## Most Used Languages
+- Jupyter Notebook: 100.00%
 ---
 
 ## 👤 Contact & Profiles
