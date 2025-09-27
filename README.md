@@ -75,10 +75,6 @@ I view data analysts as a **fusion of detective work and storytelling**—uncove
 
 ## 📊 GitHub Stats 
 
-## 📊 GitHub Stats 
-
-## 📊 GitHub Stats 
-
 <div align="center">
 
   <!-- GitHub Stats -->
