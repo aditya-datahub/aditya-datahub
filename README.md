@@ -78,7 +78,7 @@ I view data analysts as a **fusion of detective work and storytelling**—uncove
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko&hide_border=true&count_private=true&hide=contribs" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko&hide_border=true&count_private=true&hide=contribs&year=2025" height="170"/>
 
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko&hide_border=true" height="170"/>
