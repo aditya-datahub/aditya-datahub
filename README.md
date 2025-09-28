@@ -28,7 +28,7 @@ To me, data is both a **puzzle** and a **story**—one that drives smarter decis
 
 ---
 
-## 🔧 Core Competencies
+## 🔧 Core Skills
 
 - 🗄️ **Advanced SQL** — Proficient in window functions, complex joins, CTEs, and query optimization.  
 - 🤖 **Machine Learning** — Skilled in feature engineering, model evaluation, and implementation using scikit-learn.  
