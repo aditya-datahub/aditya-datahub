@@ -76,11 +76,10 @@ I view data analysts as a **fusion of detective work and storytelling**—uncove
 ## 📊 GitHub Stats 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityadatahub&show_icons=true&theme=merko&hide_border=true&count_private=true&hide=contribs&commits_year=2025&card_width=370" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko&hide_border=true&count_private=true&hide=contribs&commits_year=2025&card_width=380" height="160"/>
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko&hide_border=true&card_width=370&height=170"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko&hide_border=true&card_width=380" height="160"/>
 </div>
-
 ---
 
 ## 👤 Contact & Profiles
