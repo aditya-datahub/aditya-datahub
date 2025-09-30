@@ -14,11 +14,11 @@ To me, data is both a **puzzle** and a **story**—one that drives smarter decis
 - **Tech Stack:** Power BI, SQL, Data Visualization  
 - **🔗 View Project:** [Credit Card Financial Dashboard](https://github.com/aditya-datahub/Credit_Card_Financial_Dashboard)
 
-### 🏦 Banking Data Analysis Dashboard
+### 🏦 Banking Project Data Analysis Dashboard
 - **Description:** Created a comprehensive analytics solution for banking data using Jupyter Notebook.  
 - **Key Achievement:** Implemented data processing, analysis, and interactive visualization of key banking metrics.  
 - **Tech Stack:** Python, Pandas, Jupyter Notebook, Matplotlib/Seaborn  
-- **🔗 View Project:** [Banking Data Analysis Dashboard](https://github.com/aditya-datahub/Banking-Project-Data-Analysis-Dashboard)
+- **🔗 View Project:** [Banking Project Data Analysis Dashboard](https://github.com/aditya-datahub/Banking-Project-Data-Analysis-Dashboard)
 
 ### 📊 Customer Churn Prediction Project
 - **Description:** Built a machine learning model to predict customer churn using scikit-learn.  
