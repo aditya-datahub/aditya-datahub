@@ -40,5 +40,4 @@ I focus on turning raw data into **clear, actionable insights**.
 ---
 
 ## 🤝 Let’s Connect
-📧 addysharma1804@gmail.com  
 🔗 [GitHub](https://github.com/aditya-datahub) | [LinkedIn](https://www.linkedin.com)
