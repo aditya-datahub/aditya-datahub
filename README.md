@@ -1,99 +1,44 @@
-# 💫 About Me
-
-👋 Hi, I'm **Aditya Sharma**  
-A strategic and results-driven Data Analyst with expertise in **SQL, Python, Power BI, and Excel**, currently expanding my knowledge in **Machine Learning (scikit-learn)**.  
-To me, data is both a **puzzle** and a **story**—one that drives smarter decisions and delivers measurable business value.
+## 👋 About Me
+Hi, I’m **Aditya Sharma** — a **Data Analyst** skilled in **SQL, Python, Power BI & Excel**, with growing expertise in **Machine Learning (scikit-learn)**.  
+I focus on turning raw data into **clear, actionable insights**.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 💳 Credit Card Financial Dashboard
-- **Description:** Developed an interactive Power BI dashboard for financial analysis and credit card performance tracking.  
-- **Key Achievement:** Visualized key metrics and trends to support data-driven decision making.  
-- **Tech Stack:** Power BI, SQL, Data Visualization  
-- **🔗 View Project:** [Credit Card Financial Dashboard](https://github.com/aditya-datahub/Credit_Card_Financial_Dashboard)
+- Built an interactive Power BI dashboard to analyze credit card performance  
+- **Tech:** Power BI, SQL  
+🔗 [View Project](https://github.com/aditya-datahub/credit-card-financial-dashboard)
 
-### 🏦 Banking Project Data Analysis Dashboard
-- **Description:** Created a comprehensive analytics solution for banking data using Jupyter Notebook.  
-- **Key Achievement:** Implemented data processing, analysis, and interactive visualization of key banking metrics.  
-- **Tech Stack:** Python, Pandas, Jupyter Notebook, Matplotlib/Seaborn  
-- **🔗 View Project:** [Banking Project Data Analysis Dashboard](https://github.com/aditya-datahub/Banking-Project-Data-Analysis-Dashboard)
+### 🏦 Banking Data Analysis Dashboard
+- Performed end-to-end data analysis and visualized key banking KPIs  
+- **Tech:** Python, Pandas, Matplotlib  
+🔗 [View Project](https://github.com/aditya-datahub/Banking-Project-Data-Analysis-Dashboard)
 
-### 📊 Customer Churn Prediction Project
-- **Description:** Built a machine learning model to predict customer churn using scikit-learn.  
-- **Key Achievement:** Performed data preprocessing, feature engineering, model training, and evaluation.  
-- **Tech Stack:** Python, scikit-learn, Pandas, Machine Learning, Jupyter Notebook, Matplotlib  
-- **🔗 View Project:** [Customer Churn Prediction Project](https://github.com/aditya-datahub/Customer-Churn-Prediction-Project)
+### 📊 Customer Churn Prediction
+- Developed a machine learning model to predict customer churn  
+- **Tech:** Python, scikit-learn  
+🔗 [View Project](https://github.com/aditya-datahub/Customer-Churn-Prediction-Project)
 
 ---
 
-## 🔧 Core Skills
-
-- 🗄️ **Advanced SQL** — Proficient in window functions, complex joins, CTEs, and query optimization.  
-- 🤖 **Machine Learning** — Skilled in feature engineering, model evaluation, and implementation using scikit-learn.  
-- 📊 **Data Visualization & Storytelling** — Crafting clear, impactful dashboards and narratives for stakeholders.  
-- 🔎 **End-to-End Analytics** — Covering the full pipeline: data cleaning → analysis → strategic recommendations.  
-
----
-
-## 🎯 What I'm Looking For
-
-- Real-world analytics projects demonstrating clear ROI through data-driven solutions.  
-- Opportunities to apply strategic decision-making and business storytelling.  
-- Collaborative data projects or data cleaning challenges that solve meaningful problems.  
+## 🧠 Core Skills
+- **SQL:** Joins, CTEs, Window Functions  
+- **Python:** Pandas, NumPy, Data Analysis  
+- **Power BI:** Dashboards, DAX, Storytelling  
+- **Machine Learning:** Classification, Model Evaluation  
+- **End-to-End Analytics:** Data Cleaning → Insights → Recommendations
 
 ---
 
-## 💡 Philosophy
-
-I view data analysts as a **fusion of detective work and storytelling**—uncovering hidden patterns in numbers and weaving them into narratives that inspire action and drive business outcomes.
-
----
-
-## 💻 Tech Stack
-
-**Programming & Databases:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA5D03?style=flat-square&logo=jupyter&logoColor=white)
-
-**Data Science Libraries:**  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE.svg?style=flat-square&logo=python&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)  
-
-**Visualization & Tools:**  
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
+## 🎯 What I’m Looking For
+- Entry-level / Internship roles in **Data Analytics**
+- Real-world projects with business impact
+- Opportunities to grow in analytics & machine learning
 
 ---
 
-## 📊 GitHub Stats 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko&hide_border=true&count_private=true&hide=contribs&commits_year=2025&card_width=380" height="170"/>
- 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko&hide_border=true&card_width=380" height="170"/>
-</div>
-
----
-
-## 👤 Contact & Profiles
-
-**Aditya Sharma**  
-- 💼 **LinkedIn:** [linkedin.com/in/aditya-sharma-9b6588286](https://linkedin.com/in/aditya-sharma-9b6588286)  
-- 🐙 **GitHub:** [github.com/aditya-datahub](https://github.com/aditya-datahub)  
-
-> *Aspiring Data Analyst skilled in SQL, Excel, Python & Power BI | Passionate about learning, data visualization, and turning data into insights.*
-
----
-
-## 📈 Let's Connect!
-
-I'm always open to discussing **data analytics**, **collaboration opportunities**, or **new challenges**. Feel free to reach out!
+## 🤝 Let’s Connect
+📧 addysharma1804@gmail.com  
+🔗 [GitHub](https://github.com/aditya-datahub) | [LinkedIn](https://www.linkedin.com)
