@@ -65,11 +65,13 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko&hide_border=true&count_private=true" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko&hide_border=true" height="170"/>
+</div>
 
 ---
 ## 🤝 Let’s Connect
