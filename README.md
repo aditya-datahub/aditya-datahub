@@ -65,11 +65,17 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Badges Version)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=radical" />
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/aditya-datahub?style=flat-square&logo=github)
+![GitHub Issues](https://img.shields.io/github/issues/aditya-datahub?style=flat-square&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/aditya-datahub?style=flat-square&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/aditya-datahub?style=flat-square&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/aditya-datahub?style=flat-square&logo=github)
+![GitHub License](https://img.shields.io/github/license/aditya-datahub?style=flat-square&logo=github)
+
 </div>
 
 ---
