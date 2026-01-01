@@ -72,10 +72,9 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko)
 
 ---
-
 ## 🤝 Let’s Connect
 
-- 💼 **LinkedIn:** https://linkedin.com/in/aditya-sharma-9b6588286  
-- 🐙 **GitHub:** https://github.com/aditya-datahub  
+- 💼 **LinkedIn:** [Visit LinkedIn Profile](https://linkedin.com/in/aditya-sharma-9b6588286)
+- 🐙 **GitHub:** [Visit GitHub Profile](https://github.com/aditya-datahub)
 
 > *Aspiring Data Analyst passionate about SQL, Python, Power BI, and turning data into impactful insights.*
