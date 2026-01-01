@@ -68,10 +68,9 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-datahub&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=radical" />
 </div>
->
 
 ---
 ## 🤝 Let’s Connect
