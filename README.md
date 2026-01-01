@@ -69,6 +69,8 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aditya-datahub&theme=merko)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko)
 
 ---
