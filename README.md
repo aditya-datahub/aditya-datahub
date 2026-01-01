@@ -21,7 +21,7 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 🔗 [View Project](https://github.com/aditya-datahub/Banking-Project-Data-Analysis-Dashboard)
 
 ### 📊 Customer Churn Prediction
-- Built a machine learning model to predict customer churn  
+- Built a machine learning project to predict customer churn  
 - Applied data preprocessing, feature engineering, model training, and evaluation  
 - **Tech Stack:** Python, Pandas, scikit-learn  
 🔗 [View Project](https://github.com/aditya-datahub/Customer-Churn-Prediction-Project)
@@ -69,8 +69,6 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aditya-datahub&theme=merko)](https://git.io/streak-stats)
-
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko)
 
 ---
@@ -80,3 +78,5 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 - 🐙 **GitHub:** [Visit GitHub Profile](https://github.com/aditya-datahub)
 
 > *Aspiring Data Analyst passionate about SQL, Python, Power BI, and turning data into impactful insights.*
+
+---
