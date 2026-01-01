@@ -65,18 +65,11 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 
 ---
 
-## 📊 GitHub Stats (Badges Version)
+## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko)
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/aditya-datahub?style=flat-square&logo=github)
-![GitHub Issues](https://img.shields.io/github/issues/aditya-datahub?style=flat-square&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/aditya-datahub?style=flat-square&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/aditya-datahub?style=flat-square&logo=github)
-![GitHub Followers](https://img.shields.io/github/followers/aditya-datahub?style=flat-square&logo=github)
-![GitHub License](https://img.shields.io/github/license/aditya-datahub?style=flat-square&logo=github)
-
-</div>
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko)
 
 ---
 ## 🤝 Let’s Connect
