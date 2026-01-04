@@ -40,9 +40,7 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 
 ## 🎯 What I’m Looking For
 
-- Entry-level / Internship roles in **Data Analytics**  
-- Real-world projects with measurable business impact  
-- Opportunities to grow in analytics and machine learning  
+Seeking **Data Analyst entry-level or internship roles** where I can apply SQL, Python, and BI skills to solve real-world business problems and drive data-informed decisions.
 
 ---
 
@@ -61,7 +59,6 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
 
