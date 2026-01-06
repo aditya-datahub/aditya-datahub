@@ -4,7 +4,7 @@
 A results-driven **Data Analyst** skilled in **SQL, Python, Power BI & Excel**, with growing expertise in **Machine Learning (scikit-learn)**.  
 I specialize in transforming raw data into **clear, actionable insights** that support data-driven decision-making.
 
----
+--
 
 ## 🚀 Featured Projects
 
