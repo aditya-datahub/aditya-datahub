@@ -1,15 +1,15 @@
 # Hi 👋 I'm Aditya 
 
-🎯 Aspiring **Data Analyst** | SQL • Python • Power BI • Excel  
+🎯 **Data Analyst** | SQL • Python • Power BI • Excel  
 📊 Passionate about transforming raw data into clear, actionable insights
 
 ---
 
 ## 🚀 About Me
-- Aspiring Data Analyst with hands-on experience through **real-world projects**
-- Skilled in **data cleaning, analysis, visualization, and insight generation**
-- Strong interest in **business analytics, KPIs, and data storytelling**
-- Actively building projects to strengthen practical analytics skills
+- Data Analyst with hands-on experience in **real-world projects**
+- Skilled in **data cleaning, analysis, visualization, and generating actionable insights**
+- Passionate about **business analytics, KPIs, and data storytelling**
+- Continuously building projects to enhance practical analytics skills and deliver **data-driven solutions**
 
 ---
 
