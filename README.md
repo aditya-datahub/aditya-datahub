@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aditya Sharma
+# Hi 👋 I'm Aditya 
 
 🎯 Aspiring **Data Analyst** | SQL • Python • Power BI • Excel  
 📊 Passionate about transforming raw data into clear, actionable insights
