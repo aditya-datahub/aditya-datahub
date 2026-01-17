@@ -1,29 +1,44 @@
-# 💫 About Me
+# Hi 👋 I'm Aditya Sharma
 
-👋 Hi, I’m **Aditya Sharma**  
-A results-driven **Data Analyst** skilled in **SQL, Python, Power BI & Excel**, with growing expertise in **Machine Learning (scikit-learn)**.  
-I specialize in transforming raw data into **clear, actionable insights** that support data-driven decision-making.
+🎯 Aspiring **Data Analyst** | SQL • Python • Power BI • Excel  
+📊 Passionate about transforming raw data into clear, actionable insights
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
+- Aspiring Data Analyst with hands-on experience through **real-world projects**
+- Skilled in **data cleaning, analysis, visualization, and insight generation**
+- Strong interest in **business analytics, KPIs, and data storytelling**
+- Actively building projects to strengthen practical analytics skills
 
-### 💳 Credit Card Financial Dashboard
-- Developed an interactive Power BI dashboard to analyze credit card performance and financial trends  
-- Enabled data-driven insights through KPI visualization  
-- **Tech Stack:** Power BI, SQL  
-🔗 [View Project](https://github.com/aditya-datahub/Credit_Card_Financial_Dashboard)
+---
 
-### 🏦 Banking Data Analysis Dashboard
-- Performed end-to-end data analysis on banking datasets using Python  
-- Visualized key banking KPIs and trends using charts and dashboards  
-- **Tech Stack:** Python, Pandas, Matplotlib, Jupyter Notebook  
-🔗 [View Project](https://github.com/aditya-datahub/Banking-Project-Data-Analysis-Dashboard)
+## 📂 Featured Projects
 
-### 📊 Customer Churn Prediction
-- Built a machine learning project to predict customer churn  
-- Applied data preprocessing, feature engineering, model training, and evaluation  
-- **Tech Stack:** Python, Pandas, scikit-learn  
+### 📈OptiFlow – End-to-End Sales Performance & Target Analysis
+End-to-end sales analytics comparing actual performance vs targets, identifying underperforming categories and profitability gaps.  
+**Tech Stack:** Python, SQL, Power BI  
+🔗 [View Project](https://github.com/aditya-datahub/optiflow-end-to-end-sales-performance-target-analysis)
+
+---
+
+### 🏥 Hospital Operations Efficiency Analysis
+Analyzed hospital operational data to uncover **patient congestion, length of stay trends, and resource inefficiencies** using Python, SQL, and Power BI.  
+**Tech Stack:** Python, SQL, Power BI  
+🔗 [View Project](https://github.com/aditya-datahub/hospital-operations-efficiency-analysis)
+
+---
+
+### 🛒 Madhav Ecommerce Sales Dashboard (Power BI)
+Interactive dashboard analyzing revenue, profitability, and customer behavior to support business decisions.  
+**Tech Stack:** Power BI, Excel  
+🔗 [View Project](https://github.com/aditya-datahub/madhav-ecommerce-sales-dashboard)
+
+---
+
+### 🔁 Customer Churn Prediction
+Built a machine learning project to predict customer churn using classification models, including data preprocessing, feature engineering, and model evaluation.  
+**Tech Stack:** Python, Pandas, scikit-learn  
 🔗 [View Project](https://github.com/aditya-datahub/Customer-Churn-Prediction-Project)
 
 ---
@@ -38,9 +53,9 @@ I specialize in transforming raw data into **clear, actionable insights** that s
 
 ---
 
-## 🎯 What I’m Looking For
-
-Seeking **Data Analyst entry-level or internship roles** where I can apply SQL, Python, and BI skills to solve real-world business problems and drive data-informed decisions.
+## 📌 Explore More Projects
+👉 **View all my projects here:**  
+🔗 https://github.com/aditya-datahub?tab=repositories
 
 ---
 
@@ -69,11 +84,14 @@ Seeking **Data Analyst entry-level or internship roles** where I can apply SQL, 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko)
 
 ---
-## 🤝 Let’s Connect
 
-- 💼 **LinkedIn:** [Visit LinkedIn Profile](https://linkedin.com/in/aditya-sharma-9b6588286)
-- 🐙 **GitHub:** [Visit GitHub Profile](https://github.com/aditya-datahub)
-
-> *Aspiring Data Analyst passionate about SQL, Python, Power BI, and turning data into impactful insights.*
+## 🎯 What I’m Looking For
+Entry-level **Data Analyst** or **Internship** opportunities where I can apply analytical skills to solve real business problems and continue learning.
 
 ---
+
+## 🤝 Let’s Connect
+- 💼 **LinkedIn:** https://linkedin.com/in/aditya-sharma-9b6588286
+- 🐙 **GitHub:** https://github.com/aditya-datahub
+
+🌱 *Always learning, analyzing, and building data-driven solutions.*
