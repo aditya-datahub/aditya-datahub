@@ -29,10 +29,10 @@ Analyzed hospital operational data to uncover **patient congestion, length of st
 
 ---
 
-### 🛒 Madhav Ecommerce Sales Dashboard (Power BI)
-Interactive dashboard analyzing revenue, profitability, and customer behavior to support business decisions.  
-**Tech Stack:** Power BI, Excel  
-🔗 [View Project](https://github.com/aditya-datahub/madhav-ecommerce-sales-dashboard)
+### 🌍 Weather Insights Dashboard (Power BI)
+Built an API-integrated Power BI dashboard to analyze real-time weather trends and Air Quality Index (AQI) levels across multiple cities, enabling comparative environmental risk insights.  
+**Tech Stack:** Power BI, DAX, Weather API, Data Modeling  
+🔗 [View Project](https://github.com/aditya-datahub/powerbi-weather-insights-dashboard)
 
 ---
 
