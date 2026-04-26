@@ -15,13 +15,6 @@
 
 ## 📂 Featured Projects
 
-### 📈OptiFlow – End-to-End Sales Performance & Target Analysis
-End-to-end sales analytics comparing actual performance vs targets, identifying underperforming categories and profitability gaps.  
-**Tech Stack:** Python, SQL, Power BI  
-🔗 [View Project](https://github.com/aditya-datahub/optiflow-end-to-end-sales-performance-target-analysis)
-
----
-
 ### ⛽ FuelGuard – Fraud Detection & Customer Analytics Pipeline
 
 Built an end-to-end fraud detection pipeline analyzing 1,00,000 transactions 
@@ -33,10 +26,10 @@ using sensor data validation.
 
 ---
 
-### 🌍 Weather Insights Dashboard (Power BI)
-Built an API-integrated Power BI dashboard to analyze real-time weather trends and Air Quality Index (AQI) levels across multiple cities, enabling comparative environmental risk insights.  
-**Tech Stack:** Power BI, DAX, Weather API, Data Modeling  
-🔗 [View Project](https://github.com/aditya-datahub/powerbi-weather-insights-dashboard)
+### 📈OptiFlow – End-to-End Sales Performance & Target Analysis
+End-to-end sales analytics comparing actual performance vs targets, identifying underperforming categories and profitability gaps.  
+**Tech Stack:** Python, SQL, Power BI  
+🔗 [View Project](https://github.com/aditya-datahub/optiflow-end-to-end-sales-performance-target-analysis)
 
 ---
 
@@ -44,6 +37,13 @@ Built an API-integrated Power BI dashboard to analyze real-time weather trends a
 Built a machine learning project to predict customer churn using classification models, including data preprocessing, feature engineering, and model evaluation.  
 **Tech Stack:** Python, Pandas, scikit-learn  
 🔗 [View Project](https://github.com/aditya-datahub/Customer-Churn-Prediction-Project)
+
+---
+
+### 🌍 Weather Insights Dashboard (Power BI)
+Built an API-integrated Power BI dashboard to analyze real-time weather trends and Air Quality Index (AQI) levels across multiple cities, enabling comparative environmental risk insights.  
+**Tech Stack:** Power BI, DAX, Weather API, Data Modeling  
+🔗 [View Project](https://github.com/aditya-datahub/powerbi-weather-insights-dashboard)
 
 ---
 
