@@ -29,6 +29,7 @@ using sensor data validation.
 ### 📈OptiFlow – End-to-End Sales Performance & Target Analysis
 Sales analytics pipeline tracking $2.15M revenue across 500 orders — 
 identified underperforming categories and flagged targets below 50% achievement. 
+
 **Tech Stack:** Python, SQL, Power BI  
 🔗 [View Project](https://github.com/aditya-datahub/optiflow-end-to-end-sales-performance-target-analysis)
 
