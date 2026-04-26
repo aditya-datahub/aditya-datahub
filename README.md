@@ -1,7 +1,7 @@
 # Hi 👋 I'm Aditya 
 
 🎯 **Data Analyst** | SQL • Python • Power BI • Excel  
-📊 Passionate about transforming raw data into clear, actionable insights
+📊 Turning raw data into business decisions through analytics & storytelling
 
 ---
 
