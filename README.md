@@ -22,7 +22,7 @@ End-to-end sales analytics comparing actual performance vs targets, identifying 
 
 ---
 
-### 📊 FuelGuard – Fraud Detection & Customer Analytics Pipeline
+### ⛽ FuelGuard – Fraud Detection & Customer Analytics Pipeline
 
 Built an end-to-end fraud detection pipeline analyzing 1,00,000 transactions 
 across 50 fuel stations in 3 cities — uncovered 27.5% fraud rate, 16,200L 
