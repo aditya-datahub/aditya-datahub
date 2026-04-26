@@ -27,14 +27,16 @@ using sensor data validation.
 ---
 
 ### 📈OptiFlow – End-to-End Sales Performance & Target Analysis
-End-to-end sales analytics comparing actual performance vs targets, identifying underperforming categories and profitability gaps.  
+Sales analytics pipeline tracking $2.15M revenue across 500 orders — 
+identified underperforming categories and flagged targets below 50% achievement. 
 **Tech Stack:** Python, SQL, Power BI  
 🔗 [View Project](https://github.com/aditya-datahub/optiflow-end-to-end-sales-performance-target-analysis)
 
 ---
 
 ### 🔁 Customer Churn Prediction
-Built a machine learning project to predict customer churn using classification models, including data preprocessing, feature engineering, and model evaluation.  
+ML pipeline on 7,043 customers predicting 26.54% churn — trained 4 models 
+with SMOTE balancing; Random Forest selected as optimal.
 **Tech Stack:** Python, Pandas, scikit-learn  
 🔗 [View Project](https://github.com/aditya-datahub/Customer-Churn-Prediction-Project)
 
@@ -89,8 +91,9 @@ Built an API-integrated Power BI dashboard to analyze real-time weather trends a
 
 ---
 
-## 🎯 What I’m Looking For
-Entry-level **Data Analyst** or **Internship** opportunities where I can apply analytical skills to solve real business problems and continue learning.
+## 🎯 Currently
+Open to Entry-level Data Analyst roles and Internships. 
+Available from July 2026.
 
 ---
 
