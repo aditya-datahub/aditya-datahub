@@ -22,10 +22,14 @@ End-to-end sales analytics comparing actual performance vs targets, identifying 
 
 ---
 
-### 🏥 Hospital Operations Efficiency Analysis
-Analyzed hospital operational data to uncover **patient congestion, length of stay trends, and resource inefficiencies** using Python, SQL, and Power BI.  
-**Tech Stack:** Python, SQL, Power BI  
-🔗 [View Project](https://github.com/aditya-datahub/hospital-operations-efficiency-analysis)
+### 📊 FuelGuard – Fraud Detection & Customer Analytics Pipeline
+
+Built an end-to-end fraud detection pipeline analyzing 1,00,000 transactions 
+across 50 fuel stations in 3 cities — uncovered 27.5% fraud rate, 16,200L 
+under-dispensing, and proved 3 business hypotheses on customer retention 
+using sensor data validation.  
+**Tech Stack:** Python, PostgreSQL, Power BI, DAX  
+🔗 [View Project](https://github.com/aditya-datahub/fuel-analytics-fraud-detection)
 
 ---
 
