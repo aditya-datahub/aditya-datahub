@@ -97,7 +97,7 @@ Available from July 2026.
 ---
 
 ## 🤝 Let’s Connect
-- 💼 **LinkedIn:** https://linkedin.com/in/aditya-sharma-9b6588286
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-sharma-data-analyst/
 - 🐙 **GitHub:** https://github.com/aditya-datahub
 
 🌱 *Always learning, analyzing, and building data-driven solutions.*
