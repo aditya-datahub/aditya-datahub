@@ -4,7 +4,7 @@
 
 ### Data Analyst | SQL • Python • Power BI • Excel
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;Found+%E2%82%B92.3Cr+GMV+loss+in+Uber+data;Forecasted+%24192K+revenue+with+ARIMA;Open+to+Data+Analyst+%2F+MIS+roles)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;Found+%E2%82%B92.3Cr+GMV+loss+in+Uber+data;Forecasted+%24192K+revenue+with+ARIMA;Open+to+Data+Analyst+%2F+MIS+Analyst+roles)
 
 </div>
 
@@ -18,7 +18,7 @@ I turn messy data into decisions that save companies money and grow revenue.
 - 👥 Segmented **2,205 customers** with K-Means to reveal disengaged high-spenders
 - 🎓 Google Data Analytics Professional Certificate
 
-🎯 Open to entry-level **Data Analyst / MIS** roles — available from August 2026
+🎯 Open to entry-level **Data Analyst / MIS Analyst** roles — available from August 2026
 
 ---
 
