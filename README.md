@@ -1,7 +1,12 @@
-# Hi 👋 I'm Aditya 
+<div align="center">
 
-🎯 **Data Analyst** | SQL • Python • Power BI • Excel  
-📊 Turning raw data into business decisions through analytics & storytelling
+# Hi, I'm Aditya 👋
+
+### Data Analyst | SQL • Python • Power BI • Excel
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;Found+%E2%82%B92.3Cr+GMV+loss+in+Uber+data;Forecasted+%24192K+revenue+with+ARIMA;Open+to+Data+Analyst+%2F+MIS+roles)
+
+</div>
 
 ---
 
@@ -59,17 +64,6 @@ via KMeans clustering.
 
 ---
 
-## 🔧 Core Skills
-
-- 🗄️ **SQL:** Joins, CTEs, Window Functions  
-- 🐍 **Python:** Pandas, NumPy, Data Analysis  
-- 📊 **Power BI:** Dashboards, DAX, Data Storytelling  
-- 🤖 **Machine Learning:** Classification, Model Evaluation  
-- 🔎 **End-to-End Analytics:** Data Cleaning → Analysis → Insights → Recommendations  
-
----
-
-## 📌 Explore More Projects
 👉 [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub?tab=repositories)
 
 ---
@@ -107,8 +101,6 @@ via KMeans clustering.
     <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko" width="480" /></td>
   </tr>
 </table>
-
----
 
 ---
 
