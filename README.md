@@ -65,8 +65,7 @@ via KMeans clustering.
 ---
 
 ## 📌 Explore More Projects
-👉 **View all my projects here:**  
-🔗 https://github.com/aditya-datahub?tab=repositories
+👉 **View all my projects here:**  🔗 https://github.com/aditya-datahub?tab=repositories
 
 ---
 
@@ -104,7 +103,6 @@ Available from July 2026.
 ---
 
 ## 🤝 Let's Connect
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-sharma-data-analyst/
-- 🐙 **GitHub:** https://github.com/aditya-datahub
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-sharma-data-analyst/     🐙 **GitHub:** https://github.com/aditya-datahub
 
 🌱 *Always learning, analyzing, and building data-driven solutions.*
