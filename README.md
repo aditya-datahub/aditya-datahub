@@ -66,7 +66,7 @@ via KMeans clustering.
 ---
 
 ## 📌 Explore More Projects
-👉 **View all my repositories here:** [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub?tab=repositories)
+👉 **View all my repositories here:**  [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub?tab=repositories)
 
 ---
 
