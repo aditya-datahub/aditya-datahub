@@ -6,10 +6,14 @@
 ---
 
 ## 🚀 About Me
-- Data Analyst with hands-on experience in **real-world projects**
-- Skilled in **data cleaning, analysis, visualization, and generating actionable insights**
-- Passionate about **business analytics, KPIs, and data storytelling**
-- Continuously building projects to enhance practical analytics skills and deliver **data-driven solutions**
+I turn messy data into decisions that save companies money and grow revenue.
+
+- 🚗 Uncovered a **₹2.3Cr monthly GMV loss** in Uber's cancellation data
+- 📈 Forecasted **$192K Q1 revenue** using ARIMA time-series modeling
+- 👥 Segmented **2,205 customers** with K-Means to reveal disengaged high-spenders
+- 🎓 Google Data Analytics Professional Certificate
+
+🎯 Open to entry-level **Data Analyst / MIS** roles — available from August 2026
 
 ---
 
@@ -98,10 +102,6 @@ via KMeans clustering.
 </table>
 
 ---
-
-## 🎯 Currently
-Open to Entry-level Data Analyst and MIS roles and Internships. 
-Available from August 2026.
 
 ---
 
