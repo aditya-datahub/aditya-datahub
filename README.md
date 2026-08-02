@@ -65,7 +65,7 @@ via KMeans clustering.
 ---
 
 ## 📌 Explore More Projects
-👉 **View all my projects here:**  🔗 https://github.com/aditya-datahub?tab=repositories
+👉 **View all my projects here:** 🔗 [https://github.com/aditya-datahub?tab=repositories](https://github.com/aditya-datahub?tab=repositories)
 
 ---
 
@@ -89,10 +89,12 @@ via KMeans clustering.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko" width="49%" />
-</p>
+<table>
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko" width="100%" /></td>
+    <td width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko" width="100%" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -103,6 +105,7 @@ Available from July 2026.
 ---
 
 ## 🤝 Let's Connect
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-sharma-data-analyst/     🐙 **GitHub:** https://github.com/aditya-datahub
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-sharma-data-analyst/
+- 🐙 **GitHub:** https://github.com/aditya-datahub
 
 🌱 *Always learning, analyzing, and building data-driven solutions.*
