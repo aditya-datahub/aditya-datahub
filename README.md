@@ -106,7 +106,13 @@ Available from August 2026.
 ---
 
 ## 🤝 Let's Connect
-<a href="https://www.linkedin.com/in/aditya-sharma-data-analyst/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
-<a href="https://github.com/aditya-datahub" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
 
-🌱 *Always learning, analyzing, and building data-driven solutions.*
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-sharma-data-analyst/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aditya-datahub" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
+</p>
+
+<p align="center">
+  💬 <b>Got a role, a project, or just want to talk data? My inbox is always open.</b>
+</p>
