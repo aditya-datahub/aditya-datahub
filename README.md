@@ -16,7 +16,6 @@
 ## 📂 Featured Projects
 
 ### ⛽ FuelGuard – Fraud Detection & Customer Analytics Pipeline
-
 Built an end-to-end fraud detection pipeline analyzing 1,00,000 transactions 
 across 50 fuel stations in 3 cities — uncovered 27.5% fraud rate, 16,200L 
 under-dispensing, and proved 3 business hypotheses on customer retention 
@@ -26,25 +25,32 @@ using sensor data validation.
 
 ---
 
-### 📈OptiFlow – End-to-End Sales Performance & Target Analysis
-Sales analytics pipeline tracking $2.15M revenue across 500 orders — identified underperforming categories and flagged targets below 50% achievement.  
-**Tech Stack:** Python, SQL, Power BI  
-🔗 [View Project](https://github.com/aditya-datahub/optiflow-end-to-end-sales-performance-target-analysis)
+### 💳 BNPL Risk & Profitability Analytics
+Power BI dashboard analyzing simulated Buy Now Pay Later lending data — 
+segmented customers into High/Medium/Low credit risk tiers, tracked default 
+rate, and surfaced which merchant categories and providers drive the 
+highest loan volume and risk exposure.  
+**Tech Stack:** Power BI, DAX, Data Modeling  
+🔗 [View Project](https://github.com/aditya-datahub/bnpl-risk-profitability-analytics)
 
 ---
 
 ### 🔁 Customer Churn Prediction
 ML pipeline on 7,043 customers predicting 26.54% churn — trained 4 models 
-with SMOTE balancing; Random Forest selected as optimal.
+with SMOTE balancing; Random Forest selected as optimal.  
 **Tech Stack:** Python, Pandas, scikit-learn  
-🔗 [View Project](https://github.com/aditya-datahub/Customer-Churn-Prediction-Project)
+🔗 [View Project](https://github.com/aditya-datahub/customer-churn-prediction-project)
 
 ---
 
-### 🌍 Weather Insights Dashboard (Power BI)
-Built an API-integrated Power BI dashboard to analyze real-time weather trends and Air Quality Index (AQI) levels across multiple cities, enabling comparative environmental risk insights.  
-**Tech Stack:** Power BI, DAX, Weather API, Data Modeling  
-🔗 [View Project](https://github.com/aditya-datahub/powerbi-weather-insights-dashboard)
+### 🚗 RideIQ – Uber Product Analytics
+Simulated a Senior Product Analyst role at Uber — analyzed 200K NYC rides to 
+diagnose 3 business problems: rider retention (only 19% active by Day 30), 
+early-morning cancellation leakage, and surge pricing impact. Built cohort 
+retention SQL, ran a simulated A/B test on surge caps, and segmented riders 
+via KMeans clustering.  
+**Tech Stack:** Python, SQL (PostgreSQL), Power BI  
+🔗 [View Project](https://github.com/aditya-datahub/rideiq-uber-analytics)
 
 ---
 
@@ -92,11 +98,11 @@ Built an API-integrated Power BI dashboard to analyze real-time weather trends a
 
 ## 🎯 Currently
 Open to Entry-level Data Analyst roles and Internships. 
-Available from July 2026.
+Available from August 2026.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 - 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-sharma-data-analyst/
 - 🐙 **GitHub:** https://github.com/aditya-datahub
 
