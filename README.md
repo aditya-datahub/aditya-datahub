@@ -26,11 +26,12 @@ using sensor data validation.
 ---
 
 ### 💳 BNPL Risk & Profitability Analytics
-Power BI dashboard analyzing simulated Buy Now Pay Later lending data — 
-segmented customers into High/Medium/Low credit risk tiers, tracked default 
-rate, and surfaced which merchant categories and providers drive the 
-highest loan volume and risk exposure.  
-**Tech Stack:** Power BI, DAX, Data Modeling  
+End-to-end fintech analytics project on Buy Now Pay Later lending data — 
+cleaned and analyzed loan-level data in Python, then built a Power BI 
+dashboard segmenting customers into High/Medium/Low credit risk tiers, 
+tracking default rate, and surfacing which merchant categories and 
+providers drive the highest loan volume and risk exposure.  
+**Tech Stack:** Python, Jupyter Notebook, Power BI, DAX  
 🔗 [View Project](https://github.com/aditya-datahub/bnpl-risk-profitability-analytics)
 
 ---
@@ -91,15 +92,15 @@ via KMeans clustering.
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko" width="100%" /></td>
-    <td width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko" width="100%" /></td>
+    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko" width="480" /></td>
+    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko" width="480" /></td>
   </tr>
 </table>
 
 ---
 
 ## 🎯 Currently
-Open to Entry-level Data Analyst roles and Internships. 
+Open to Entry-level Data Analyst and MIS roles and Internships. 
 Available from August 2026.
 
 ---
