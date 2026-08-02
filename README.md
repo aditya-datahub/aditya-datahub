@@ -100,12 +100,11 @@ via KMeans clustering.
 
 ## 🎯 Currently
 Open to Entry-level Data Analyst roles and Internships. 
-Available from July 2026.
+Available from August 2026.
 
 ---
 
 ## 🤝 Let's Connect
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-sharma-data-analyst/
-- 🐙 **GitHub:** https://github.com/aditya-datahub
+💼 **LinkedIn:** [https://www.linkedin.com/in/aditya-sharma-data-analyst/](https://www.linkedin.com/in/aditya-sharma-data-analyst/) | 🐙 **GitHub:** [https://github.com/aditya-datahub](https://github.com/aditya-datahub)
 
 🌱 *Always learning, analyzing, and building data-driven solutions.*
