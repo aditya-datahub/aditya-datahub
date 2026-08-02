@@ -106,6 +106,6 @@ Available from August 2026.
 ---
 
 ## 🤝 Let's Connect
-💼 **LinkedIn:** [https://www.linkedin.com/in/aditya-sharma-data-analyst/](https://www.linkedin.com/in/aditya-sharma-data-analyst/) | 🐙 **GitHub:** [https://github.com/aditya-datahub](https://github.com/aditya-datahub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-data-analyst/) [https://www.linkedin.com/in/aditya-sharma-data-analyst/](https://www.linkedin.com/in/aditya-sharma-data-analyst/) &nbsp;|&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-datahub) [https://github.com/aditya-datahub](https://github.com/aditya-datahub)
 
 🌱 *Always learning, analyzing, and building data-driven solutions.*
