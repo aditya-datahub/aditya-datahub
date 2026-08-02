@@ -21,7 +21,7 @@ across 50 fuel stations in 3 cities — uncovered 27.5% fraud rate, 16,200L
 under-dispensing, and proved 3 business hypotheses on customer retention 
 using sensor data validation.  
 **Tech Stack:** Python, PostgreSQL, Power BI, DAX  
-🔗 [View Project](https://github.com/aditya-datahub/fuel-analytics-fraud-detection)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/fuel-analytics-fraud-detection)
 
 ---
 
@@ -32,7 +32,7 @@ dashboard segmenting customers into High/Medium/Low credit risk tiers,
 tracking default rate, and surfacing which merchant categories and 
 providers drive the highest loan volume and risk exposure.  
 **Tech Stack:** Python, Jupyter Notebook, Power BI, DAX  
-🔗 [View Project](https://github.com/aditya-datahub/bnpl-risk-profitability-analytics)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/bnpl-risk-profitability-analytics)
 
 ---
 
@@ -40,7 +40,7 @@ providers drive the highest loan volume and risk exposure.
 ML pipeline on 7,043 customers predicting 26.54% churn — trained 4 models 
 with SMOTE balancing; Random Forest selected as optimal.  
 **Tech Stack:** Python, Pandas, scikit-learn  
-🔗 [View Project](https://github.com/aditya-datahub/customer-churn-prediction-project)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/customer-churn-prediction-project)
 
 ---
 
@@ -51,7 +51,7 @@ early-morning cancellation leakage, and surge pricing impact. Built cohort
 retention SQL, ran a simulated A/B test on surge caps, and segmented riders 
 via KMeans clustering.  
 **Tech Stack:** Python, SQL (PostgreSQL), Power BI  
-🔗 [View Project](https://github.com/aditya-datahub/rideiq-uber-analytics)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/rideiq-uber-analytics)
 
 ---
 
