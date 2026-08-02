@@ -107,9 +107,8 @@ via KMeans clustering.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-sharma-data-analyst/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aditya-datahub" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
+  <a href="https://www.linkedin.com/in/aditya-sharma-data-analyst/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/aditya-datahub" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
