@@ -90,15 +90,16 @@ via KMeans clustering.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko)
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-datahub&show_icons=true&theme=merko" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-datahub&layout=compact&theme=merko" width="49%" />
+</p>
 
 ---
 
 ## 🎯 Currently
 Open to Entry-level Data Analyst roles and Internships. 
-Available from August 2026.
+Available from July 2026.
 
 ---
 
