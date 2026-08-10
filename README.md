@@ -115,5 +115,5 @@ via KMeans clustering.
 </p>
 
 <p align="center">
-  💬 <b>Got a role, a project, or just want to talk data? Reach out on LinkedIn — always happy to connect.</b>
+  💬 <b>Got a role, a project, or just want to talk data? Reach out on LinkedIn or Email  — always happy to connect.</b>
 </p>
