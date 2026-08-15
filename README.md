@@ -18,7 +18,7 @@ I turn messy data into decisions that save companies money and grow revenue.
 - 👥 Segmented **2,205 customers** with K-Means to reveal disengaged high-spenders
 - 🎓 Google Data Analytics Professional Certificate
 
-🎯 Open to entry-level **Data Analyst / MIS Analyst** roles — available from August 2026
+🎯 Open to entry-level **Data Analyst / MIS Analyst** roles — Remote / Hybrid — available from August 2026
 
 ---
 
