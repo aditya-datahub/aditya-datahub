@@ -4,7 +4,7 @@
 
 ### Data Analyst | SQL • Python • Power BI • Excel
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;Uncovered+81%25+rider+drop-off+via+cohort+analysis;Detected+27.5%25+fraud+rate+across+50+stations;Facebook+drives+2x+more+conversions+than+Google+Ads;Open+to+Data+Analyst+%2F+MIS+Analyst+roles)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;Uncovered+81%25+rider+drop-off+via+cohort+analysis;Detected+27.5%25+fraud+rate+across+50+stations;Forecasted+%24192K+revenue+with+ARIMA;Open+to+Data+Analyst+%2F+MIS+Analyst+roles)
 
 </div>
 
@@ -15,8 +15,8 @@ I turn messy data into decisions that save companies money and grow revenue.
 
 - 🚗 Analyzed **195K+ Uber rides** — uncovered an **81% rider drop-off by Day 30** through SQL cohort retention analysis
 - ⛽ Built a fraud detection pipeline across **1,00,000 transactions** — uncovered a **27.5% fraud rate** and physically proved **16,200L** of under-dispensed fuel using sensor data
-- 📢 Compared Facebook vs. Google Ads performance — found Facebook drives **~2x more conversions**, confirmed via statistical hypothesis testing (Welch's t-test, p << 0.05)
 - 📈 Forecasted **$192K Q1 revenue** using ARIMA time-series modeling
+- 👥 Segmented riders using **K-Means clustering** — isolated a High Value tier averaging **4x the platform's average fare**
 - 🎓 Google Data Analytics Professional Certificate
 
 🎯 Open to entry-level **Data Analyst / MIS Analyst** roles — Remote / Hybrid — available from August 2026
@@ -59,23 +59,15 @@ with 5 DAX measures for executive-level reporting.
 
 ---
 
-### 📢 Media Spend ROI — Facebook vs. Google Ads
-Analyzed 365 days of ad campaign data to determine which platform delivers
-better ROI. Found Facebook generates ~2x more conversions/day than Google
-Ads (11.74 vs. 5.98), confirmed via a one-tailed Welch's t-test
-(p = 9.35e-134). Ran a cointegration test to confirm ad spend and
-conversions share a stable long-term relationship, and used linear
-regression to predict conversions from clicks (R² = 76.35%). Identified
-May & November as the most cost-effective months to advertise.
+### 🔁 Customer Churn Prediction
+ML pipeline on 7,043 customers predicting 26.54% churn — trained 4 models
+with SMOTE balancing; Random Forest selected as optimal.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-2C3E50?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/facebook-vs-adwords-ab-test)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/customer-churn-prediction-project)
 
 ---
 
@@ -92,35 +84,6 @@ providers drive the highest loan volume and risk exposure.
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/bnpl-risk-profitability-analytics)
-
----
-
-### 🔁 Customer Churn Prediction
-ML pipeline on 7,043 customers predicting 26.54% churn — trained 4 models
-with SMOTE balancing; Random Forest selected as optimal.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/customer-churn-prediction-project)
-
----
-
-### 📊 OptiFlow – End-to-End Sales Performance & Target Analysis
-Integrated 3 raw datasets (orders, order items, sales targets) into a
-unified sales-vs-target model. Used SQL to compare actual sales against
-targets and flag underperforming categories, then built an interactive
-Power BI dashboard with conditional formatting to highlight "At Risk"
-segments. Key finding: target achievement didn't guarantee profitability
-— some categories hit their targets while posting the lowest profit
-margins in the portfolio.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/optiflow-end-to-end-sales-performance-target-analysis)
 
 ---
 
