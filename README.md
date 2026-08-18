@@ -4,7 +4,7 @@
 
 ### Data Analyst | SQL • Python • Power BI • Excel
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;Found+%E2%82%B92.3Cr+GMV+loss+in+Uber+data;Forecasted+%24192K+revenue+with+ARIMA;Open+to+Data+Analyst+%2F+MIS+Analyst+roles)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;Uncovered+81%25+rider+drop-off+via+cohort+analysis;Forecasted+%24192K+revenue+with+ARIMA;Open+to+Data+Analyst+%2F+MIS+Analyst+roles)
 
 </div>
 
@@ -13,9 +13,9 @@
 ## 🚀 About Me
 I turn messy data into decisions that save companies money and grow revenue.
 
-- 🚗 Uncovered a **₹2.3Cr monthly GMV loss** in Uber's cancellation data
+- 🚗 Analyzed **195K+ Uber rides** — uncovered an **81% rider drop-off by Day 30** through SQL cohort retention analysis
 - 📈 Forecasted **$192K Q1 revenue** using ARIMA time-series modeling
-- 👥 Segmented **2,205 customers** with K-Means to reveal disengaged high-spenders
+- 👥 Segmented riders using **K-Means clustering** — isolated a High Value tier averaging **4x the platform's average fare**
 - 🎓 Google Data Analytics Professional Certificate
 
 🎯 Open to entry-level **Data Analyst / MIS Analyst** roles — Remote / Hybrid — available from August 2026
@@ -54,11 +54,13 @@ with SMOTE balancing; Random Forest selected as optimal.
 ---
 
 ### 🚗 RideIQ – Uber Product Analytics
-Simulated a Senior Product Analyst role at Uber — analyzed 200K NYC rides to 
-diagnose 3 business problems: rider retention (only 19% active by Day 30), 
-early-morning cancellation leakage, and surge pricing impact. Built cohort 
-retention SQL, ran a simulated A/B test on surge caps, and segmented riders 
-via KMeans clustering.  
+Analyzed 195K+ NYC Uber rides to diagnose retention, cancellation, and 
+pricing patterns. Wrote SQL window-function queries for cohort retention 
+and completion-funnel analysis — uncovering an 81% rider drop-off by Day 30 
+(34% D7 → 19% D30 retention). Applied KMeans clustering to segment riders 
+into Low/Mid/High value tiers, isolating a High Value segment averaging 
+nearly 4x the platform's average fare. Built a 3-page Power BI dashboard 
+with 5 DAX measures for executive-level reporting.  
 **Tech Stack:** Python, SQL (PostgreSQL), Power BI  
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/rideiq-uber-analytics)
 
