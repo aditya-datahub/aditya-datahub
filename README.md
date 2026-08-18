@@ -31,7 +31,12 @@ across 50 fuel stations in 3 cities — uncovered 27.5% fraud rate (peaking at
 51.2% in Delhi), physically proved 16,200L of under-dispensed fuel via sensor
 data, and validated 3 business hypotheses linking fraud to customer retention
 (fraud-affected customers return at 18% vs. 36% for clean transactions).
-**Tech Stack:** Python, PostgreSQL, Power BI, DAX
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/fuel-analytics-fraud-detection)
 
 ---
@@ -44,7 +49,12 @@ and completion-funnel analysis — uncovering an 81% rider drop-off by Day 30
 into Low/Mid/High value tiers, isolating a High Value segment averaging
 nearly 4x the platform's average fare. Built a 3-page Power BI dashboard
 with 5 DAX measures for executive-level reporting.
-**Tech Stack:** Python, SQL (PostgreSQL), Power BI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/rideiq-uber-analytics)
 
 ---
@@ -57,7 +67,14 @@ Ads (11.74 vs. 5.98), confirmed via a one-tailed Welch's t-test
 conversions share a stable long-term relationship, and used linear
 regression to predict conversions from clicks (R² = 76.35%). Identified
 May & November as the most cost-effective months to advertise.
-**Tech Stack:** Python, Pandas, SciPy, Statsmodels, Scikit-learn, Seaborn
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-2C3E50?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/facebook-vs-adwords-ab-test)
 
 ---
@@ -68,7 +85,12 @@ cleaned and analyzed loan-level data in Python, then built a Power BI
 dashboard segmenting customers into High/Medium/Low credit risk tiers,
 tracking default rate, and surfacing which merchant categories and
 providers drive the highest loan volume and risk exposure.
-**Tech Stack:** Python, Jupyter Notebook, Power BI, DAX
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/bnpl-risk-profitability-analytics)
 
 ---
@@ -76,7 +98,11 @@ providers drive the highest loan volume and risk exposure.
 ### 🔁 Customer Churn Prediction
 ML pipeline on 7,043 customers predicting 26.54% churn — trained 4 models
 with SMOTE balancing; Random Forest selected as optimal.
-**Tech Stack:** Python, Pandas, scikit-learn
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/customer-churn-prediction-project)
 
 ---
@@ -89,7 +115,11 @@ Power BI dashboard with conditional formatting to highlight "At Risk"
 segments. Key finding: target achievement didn't guarantee profitability
 — some categories hit their targets while posting the lowest profit
 margins in the portfolio.
-**Tech Stack:** Python, SQL, Power BI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-datahub/optiflow-end-to-end-sales-performance-target-analysis)
 
 ---
