@@ -17,7 +17,7 @@ I turn messy data into decisions that save companies money and grow revenue.
 - ⛽ Built a fraud detection pipeline across **1,00,000 transactions** — uncovered a **27.5% fraud rate** and physically proved **16,200L** of under-dispensed fuel using sensor data
 - 📈 Forecasted **$192K Q1 revenue** using ARIMA time-series modeling
 - 👥 Segmented riders using **K-Means clustering** — isolated a High Value tier averaging **4x the platform's average fare**
-- 🎓 Microsoft Power BI Data Analyst Professional Certificate ([verify](https://coursera.org/verify/professional-cert/8NDDDAWLPU5E)) · Google Data Analytics Professional Certificate ([verify](https://coursera.org/verify/professional-cert/GSJZMQJ2KG8H))
+- 🎓 Microsoft Power BI Data Analyst Professional Certificate ([verify](https://coursera.org/verify/professional-cert/8NDDDAWLPU5E)) · Google Data Analytics Professional Certificate ([verify](https://coursera.org/verify/professional-cert/GSJZMOJ2KG8H))
 
 🎯 Open to entry-level **Data Analyst / MIS Analyst** roles — Remote / Hybrid — available from August 2026
 
